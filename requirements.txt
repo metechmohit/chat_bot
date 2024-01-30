@@ -4,3 +4,4 @@ streamlit-extras==0.3.6
 langchain==0.1.4  
 openai==0.28.0
 faiss-cpu==1.7.4  
+tiktoken
